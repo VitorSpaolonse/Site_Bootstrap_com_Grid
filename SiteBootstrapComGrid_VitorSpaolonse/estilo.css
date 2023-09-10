@@ -1,0 +1,22 @@
+
+body {
+margin: 0 0;
+}
+
+.container {
+    margin: 1 1;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center
+    
+}
+
+@media (min-width: 768px) {
+.col-md-4 {
+    display: flex;
+    width: 29vh;
+}
+}
